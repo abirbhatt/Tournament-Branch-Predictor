@@ -1,0 +1,25 @@
+
+4. Printing statistics.
+
+=== bp_tournament ===
+
+        +----------Local Count, excluding submodules.
+        | 
+      234 wires
+      613 wire bits
+       17 public wires
+      241 public wire bits
+       11 ports
+      199 port bits
+      364 cells
+        1   BUFG
+       10   FDRE
+      134   IBUF
+       54   LUT2
+        4   LUT3
+       18   LUT4
+       18   LUT5
+       12   LUT6
+       65   OBUF
+       48   RAM128X1D
+
