@@ -26,7 +26,7 @@ The chooser's MSB selects gshare or bimodal for the final prediction. On resolve
 
 ### Accuracy vs. storage
 
-![Accuracy vs. storage for bimodal, gshare, and tournament](images/capacity.png)
+![Accuracy vs. storage for bimodal, gshare, and tournament](results/capacity.png)
 
 | Predictor | Storage | Mean accuracy | `interp` | `cfg_large` | `bsearch` |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@ The chooser's MSB selects gshare or bimodal for the final prediction. On resolve
 
 ### Accuracy vs. branch resolve latency
 
-![Accuracy vs. resolve latency, speculative vs. non-speculative history](images/latency.png)
+![Accuracy vs. resolve latency, speculative vs. non-speculative history](results/latency.png)
 
 Tournament with 10-bit tables, up to 32 branches in flight:
 
